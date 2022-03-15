@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import io
 import numpy as np
-import tensorflow as tf
+import tensorflow-cpu as tf
 from utils import clean_image, get_prediction, make_results
 
 # Loading the Model and saving to cache
