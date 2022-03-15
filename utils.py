@@ -1,5 +1,5 @@
 # Imporiting Necessary Libraries
-import tensorflow as tf
+import tensorflow cpu as tf
 import numpy as np
 from PIL import Image
 
